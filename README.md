@@ -31,13 +31,13 @@ Users should be able to:
 
 ![](./assets/images/finished-dekstop.png)
 &nbsp;  
-![](./assets/images/finished-mobile.png)
+<img src="./assets/images/finished-mobile.png" width="300" height="1000" align="center">
 
 &nbsp;  
 ### Links
 
 - Solution URL: (https://github.com/JakeHand/notifications-page)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://jakehand.github.io/notifications-page/)
 
 &nbsp;  
 ## My process
