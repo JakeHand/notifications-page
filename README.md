@@ -31,7 +31,7 @@ Users should be able to:
 
 ![](./assets/images/finished-dekstop.png)
 &nbsp;  
-<img src="./assets/images/finished-mobile.png" width="300" height="1000" align="center">
+<img src="./assets/images/finished-mobile.png" width="300" height="721" align="center">
 
 &nbsp;  
 ### Links
